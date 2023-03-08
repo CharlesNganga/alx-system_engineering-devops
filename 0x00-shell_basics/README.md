@@ -1,0 +1,1 @@
+0-current_working_directory -- first script pwd displays the current working directory
